@@ -22,11 +22,11 @@ Les Routes ont pour but d'afficher un contenu selon la route (URL) sur laquelle 
 
 **ABOUT**
 ---------------------------
-![about](about.png)
+![about](readme/about.png)
 
 **POSTS**
 ---------------------------
-![posts](posts.png)
+![posts](readme/posts.png)
 
 ## Important
 
